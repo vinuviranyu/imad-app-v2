@@ -9,7 +9,8 @@
         </div>
         <br>
         <div class="center text-big bold">
-            Hi! I am Gurunathan Srinivasan and this is my first app. This programme is to test the capabilti
+            Hi! I am Gurunathan Srinivasan and this is my first app. I am a great man and am IIT Material. 
+            Hopeful for IIT Madras for Computer Science or Aerospace or Mechanical Engineering.
         </div>
         <script type="text/javascript" src="/ui/main.js">
         </script>
